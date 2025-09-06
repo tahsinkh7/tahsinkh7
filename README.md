@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tahsin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsinkh7&label=Profile%20views&color=0e75b6&style=flat" alt="tahsinkh7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diptoriot&label=Profile%20views&color=0e75b6&style=flat" alt="diptoriot" /> </p>
 
-<p align="left"> <a href="https://twitter.com/1ahsln" target="blank"><img src="https://img.shields.io/twitter/follow/1ahsln?logo=twitter&style=for-the-badge" alt="1ahsln" /></a> </p>
-
-- 🔭 I’m currently working on [M3U8 & Cookie Scraper](https://github.com/tahsinkh7/M3U8-Cookie-Scraper)
+<p align="left"> <a href="https://twitter.com/1ahsln" target="blank"><img src="https://img.shields.io/twitter/follow/diptoriot?logo=twitter&style=for-the-badge" alt="diptoriot" /></a> </p>
 
 - 📫 How to reach me **tahsinkh7@gmail.com**
 
