@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diptoriot&label=Profile%20views&color=0e75b6&style=flat" alt="diptoriot" /> </p>
 
-<p align="left"> <a href="https://twitter.com/1ahsln" target="blank"><img src="https://img.shields.io/twitter/follow/diptoriot?logo=twitter&style=for-the-badge" alt="diptoriot" /></a> </p>
+<p align="left"> <a href="https://twitter.com/diptoriot" target="blank"><img src="https://img.shields.io/twitter/follow/diptoriot?logo=twitter&style=for-the-badge" alt="diptoriot" /></a> </p>
 
 - 📫 How to reach me **tahsinkh7@gmail.com**
 
